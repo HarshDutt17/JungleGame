@@ -1,0 +1,2 @@
+Jungle/** filter=lfs diff-lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
