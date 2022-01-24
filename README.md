@@ -1,4 +1,6 @@
 <h1> JungleGame </h1>
+<a href="https://drive.google.com/file/d/1VFkknSH4pUBUMY1MfSpyCYuBGmUiDCqz/view?usp=sharing"> Download the game directly from here.</a>
+(You can clone or download from repository as well but you will require to install Git LFS as since some files are LFS tracked. )
 
 <h4> Game Preview </h4>
 <img src="https://github.com/HarshDutt17/JungleGame/blob/master/Jungle/Content/Paks/HighresScreenshot00002.png" alt="img1">
